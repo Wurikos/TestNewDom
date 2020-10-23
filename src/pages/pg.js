@@ -63,5 +63,6 @@ export default (() => {
 				</Text>
 			</Box>
 		</Section>
+		<Box background="--color-red" />
 	</Theme>;
 });
